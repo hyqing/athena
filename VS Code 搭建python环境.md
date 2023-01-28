@@ -18,7 +18,7 @@
 
 怎么做，具体来说就是如何给VS Code做配置，告诉VS Code python的解释器在哪里，最终抽象成为，加一个配置。VS Code加配置一般都是在命令面板里面，如果不知道的话，也可以直接搜索，配置好，就OK。具体配置在这里：
 
-![](.\image/select%20Interperter.png)
+![1](.\image/select%20Interperter.png)
 
 ***难点：***
 
