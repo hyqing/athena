@@ -18,7 +18,7 @@
 
 怎么做，具体来说就是如何给VS Code做配置，告诉VS Code python的解释器在哪里，最终抽象成为，加一个配置。VS Code加配置一般都是在命令面板里面，如果不知道的话，也可以直接搜索，配置好，就OK。具体配置在这里：
 
-![1](https://github.com/hyqing/athena/blob/master/image/create%20env.png)
+![1](https://github.com/hyqing/athena/raw/master/image/create%20env.png)
 
 ***难点：***
 
@@ -35,12 +35,12 @@
 1.先创建一个venv，这里需要先打开，创建环境，然后再选择环境的依赖
 
 第一步：
-![](.\image/create%20env.png)
+![](https://github.com/hyqing/athena/raw/master/image/create%20env.png)
 
 第二步：
-![](.\image/select%20env%20base.png)
+![](https://github.com/hyqing/athena/raw/master/image/select%20env%20base.png)
 
 
 2.再选择python解释器为刚刚创建的环境
 
-![](.\image/select%20interperter1.png)  
+![](https://github.com/hyqing/athena/raw/master/image/select%20interperter1.png)  
