@@ -9,8 +9,9 @@ python路径里没有当前工作空间，对应的目录，所以就找不到
 #### 怎么做
 
 把工作空间对应的目录，添加到python路径下面即可
+![1](https://github.com/hyqing/athena/raw/master/image/settings.png)
 
-参考文档
+*参考文档*
 
 1. VS Code[文档](https://code.visualstudio.com/docs/python/python-tutorial)
-
+![2](https://github.com/hyqing/athena/raw/master/image/set%20workspace.png)
